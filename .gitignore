@@ -19,3 +19,5 @@ testem.log
 .project
 .settings
 public/assets
+.classpath
+.externalToolBuilders/
